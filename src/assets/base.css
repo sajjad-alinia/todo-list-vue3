@@ -1,0 +1,25 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+html {
+  font-size: 16px;
+}
+
+body {
+  direction: rtl;
+
+}
+
+
+
+.fs_12 {
+  font-size: 0.75rem !important;
+}
+
+.fs_14 {
+  font-size: 0.875rem !important;
+}
+
+.fs_16 {
+  font-size: 1rem !important;
+}
